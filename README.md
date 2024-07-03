@@ -5,4 +5,5 @@ Grupo conformado por:
 - Melany Jofré
 - Gianella Lupo
 - Ludmila Tononi
+- Juliana Ortiz
 # Temática: Educación (TDAH, deficit de atencion e hiperactividad)
