@@ -1,5 +1,6 @@
 # Chicas en Tecnología 2024
 - Gianella Lupo
+- Juliana Ortiz
 
 # Temática: Educación (TDAH, deficit de atencion e hiperactividad)
 Centers for Disease Control and Prevention (CDC)
